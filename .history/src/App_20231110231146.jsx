@@ -19,7 +19,7 @@ import nine from './assets/pages/9.jpg';
 import ten from './assets/pages/10.jpg';
 import eleven from './assets/pages/11.jpg';
 
-import './App.css';
+import './app.css';
 
 // import required modules
 import { EffectCube, Pagination } from 'swiper/modules';

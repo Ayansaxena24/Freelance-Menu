@@ -51,7 +51,7 @@ export default function App() {
         <SwiperSlide><img className='w-screen h-screen ' src={eight} /></SwiperSlide>
         <SwiperSlide><img className='w-screen h-screen ' src={nine} /></SwiperSlide>
         <SwiperSlide><img className='w-screen h-screen ' src={ten} /></SwiperSlide>
-        <SwiperSlide><img className='w-screen h-screen ' src={eleven} /></SwiperSlide>
+        
       </Swiper>
     </div>
   );

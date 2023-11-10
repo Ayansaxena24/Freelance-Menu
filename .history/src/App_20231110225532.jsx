@@ -15,9 +15,7 @@ import five from './assets/pages/5.jpg';
 import six from './assets/pages/6.jpg';
 import seven from './assets/pages/7.jpg';
 import eight from './assets/pages/8.jpg';
-import nine from './assets/pages/9.jpg';
-import ten from './assets/pages/10.jpg';
-import eleven from './assets/pages/11.jpg';
+
 
 import './app.css';
 
@@ -48,10 +46,6 @@ export default function App() {
         <SwiperSlide><img className='w-screen h-screen ' src={five} /></SwiperSlide>
         <SwiperSlide><img className='w-screen h-screen ' src={six} /></SwiperSlide>
         <SwiperSlide><img className='w-screen h-screen ' src={seven} /></SwiperSlide>
-        <SwiperSlide><img className='w-screen h-screen ' src={eight} /></SwiperSlide>
-        <SwiperSlide><img className='w-screen h-screen ' src={nine} /></SwiperSlide>
-        <SwiperSlide><img className='w-screen h-screen ' src={ten} /></SwiperSlide>
-        <SwiperSlide><img className='w-screen h-screen ' src={eleven} /></SwiperSlide>
       </Swiper>
     </div>
   );

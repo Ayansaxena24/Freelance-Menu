@@ -40,8 +40,8 @@ export default function App() {
         modules={[EffectCube, Pagination]}
         className='swiper'
       >
-        <SwiperSlide><img className='w-screen h-screen' src={home} />
-        <p className='flex justify-center text-md text-white absolute top-20 right-0 left-0 animate-bounce'>Swipe Right ---->></p>
+        <SwiperSlide><img className='w-screen h-screen' src={ho<me} />
+        
         </SwiperSlide>
         <SwiperSlide><img className='w-screen h-screen ' src={one} /></SwiperSlide>
         <SwiperSlide><img className='w-screen h-screen ' src={two} /></SwiperSlide>
